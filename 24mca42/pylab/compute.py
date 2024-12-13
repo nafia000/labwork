@@ -1,0 +1,5 @@
+n=input("enter the number:")
+result=n+" "+(n*2)+" "+(n*3)
+print("the pattern is",result)
+sum=int(n)+int(n*2)+int(n*3)
+print("the sum of the numbers in this pattern is",sum)
